@@ -1,70 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 1. 앱 소개
+  간단한 연락처 관리 앱
+### 2. 사용 기술
+  react, zustand, mui
+### 3. 핵심 기능
+  이름-연락처 추가, 이름으로 추가한 연락처 검색
+### 4. zustand 쓴 이유
+  그냥 강의에서 쓰길래... 몰라요.... 어 여러 군데서 쓰는 데이터? 는 stores라는 폴더 만들어서 관리한다고함. 애초에 useState도 이해 못함... 강의만 따라치고 있어서... 
+### 5. 문제-원인-해결
+  문제: 강의 그대로 따라했는데 모바일에서 css구조 이상하게 나옴
+  원인 : 몰라... 나도... mui라는 거 뭔지 모르고 그냥 강의 따라함...
+  해결 : 챗지피티한테 계속 물어봄... 원하는 모양 나올 때 까지 ... 
+  * 직접 만들어봐야.. css말고 개발 관련 문제 발생할듯 ... 
+### 6. 느낀 점, 개선할 점
+  강의만 들을 게 아니고,, 직접 만들어봐야되는데.. 강의만 듣는 것도 벅차고 시간없음.. 챗지피티가 다해줘서 다행히 진도는 나가지만.. 챗지피티 없었으면 이까지 오지도 못했을 듯... 강의 한 세네번은 돌려야 이해될듯... 근데 시간도 없고 힘도 없고.. 너무 힘들다 ... 
+  개선할 점 은 전부 다... 예쁘게는 다음 생에나 가능할듯
